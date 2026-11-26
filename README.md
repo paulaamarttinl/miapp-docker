@@ -14,7 +14,7 @@ Aplicación WordPress desplegada en contenedores utilizando Docker Compose.
 
 1. Clonar el repositorio:
 
-   git clone https://github.com/paulaamarttin/miapp-docker.git
+   git clone https://github.com/paulaamarttinl/miapp-docker.git
    cd miapp-docker
 
 2. Levantar los contenedores:
